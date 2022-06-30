@@ -1,0 +1,15 @@
+﻿To-Do List:
+
+- Cross Validation for weights
+
+- Convert the measures into classes which comes with benefits
+
+- Save output to file method
+
+- Load other formats other than CSV
+
+- Implement window function for dtw and ddtw
+
+- Implement adjusted equals for LCSS and add a weight parameter
+
+- Implement Edit distance real penalty
